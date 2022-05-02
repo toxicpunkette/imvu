@@ -1,0 +1,106 @@
+<center>
+<!-----------------------------------------BASE-----------------------------------------!>
+
+<img src="https://userimages-akm.imvu.com/userdata/16/66/51/56/userpics/Snap_JPdoqyEHZr1559213216.png" border="0" usemap="#ImageMap1" data-recalc-dims="1">
+
+<style>body{
+background-image:url(https://userimages-akm.imvu.com/userdata/16/66/51/56/userpics/Snap_Ke4c5ynVF31142950581.png);
+background-repeat:repeat;
+background-attachment:fixed;
+background-position:center}
+#main{background:none;border:none}
+</style>
+
+<!-----------------------------------------AVIPIC------------------------------------!>
+
+<div id="Avipic" style="width:1px; height:50px; position:absolute; left:181px; top:167px; z-index:1;">
+
+<img src="https://www.imvu.com/catalog/web_av_pic.php?u=35034513">
+
+</div>
+
+
+
+<!-----------------------------------------TAPS----------------------!>
+
+<div id="MAIN_BOX" style="width:285px; height:199px; position:absolute; left:540px; top:220px; z-index:1; overflow:auto;">
+<iframe src="https://static.wixstatic.com/media/237c9e_d314c75a6bee4977bbc6ead57a245226~mv2.gif" name="inlineframe" width="282" height="200" border="0" marginwidth=0 marginheight=0 frameborder=0 allowtransparency="true"></iframe>
+</div>
+
+
+<div id="GALLERY_BOX" style="width:364px; height:235px; position:absolute; left:505px; top:455px; z-index:1; overflow:auto;">
+<iframe src="https://toxicpunkette.wixsite.com/toxicsite/badgegallery" name="inlineframe" width="364" height="235" border="0" marginwidth=0 marginheight=0 frameborder=0 allowtransparency="true"></iframe>
+</div>
+
+<div id="DON_BOX" style="width:150px; height:265px; position:absolute; left:243px; top:508px; z-index:1; overflow:auto;">
+<iframe  name="inlineframe" width="150" height="265" border="0" marginwidth=0 marginheight=0 frameborder=0 allowtransparency="true"></iframe>
+</div>
+
+<div id="BADGE_BOX" style="width:282px; height:69px; position:absolute; left:546px; top:730px; z-index:1; overflow:auto;">
+<iframe src="https://static.wixstatic.com/media/237c9e_68b78fd332e74aa2817f27991fefaa52~mv2.png" name="inlineframe" width="282" height="69" border="0" marginwidth=0 marginheight=0 frameborder=0 allowtransparency="true"></iframe>
+</div>
+
+<map name="ImageMap1">
+
+<area shape="rect" coords="541,61,581,122" href="https://filedrive.gafcodes.com/users/toxicpunkette/-Custom-Home.html" target="inlineframe">
+<area shape="rect" coords="590,103,632,165" href="https://toxicpunkette.wixsite.com/toxicsite/about-me" target="inlineframe">
+<area shape="rect" coords="647,56,695,126" href="https://filedrive.gafcodes.com/users/toxicpunkette/-Custom-Friends.html" target="inlineframe">
+<area shape="rect" coords="768,53,816,125" href="https://www.imvu.com/shop/web_search.php?manufacturers_id=35034513" target="blank">
+<area shape="rect" coords="527,129,575,184" href="https://toxicpunkette.wixsite.com/toxicsite/support" target="inlineframe">
+<area shape="rect" coords="647,130,701,192" href="https://filedrive.gafcodes.com/users/toxicpunkette/blog.html" target="inlineframe">
+<area shape="rect" coords="713,104,763,169" href="https://filedrive.gafcodes.com/users/toxicpunkette/-Custom-Badge-Gallery.html" target="blank">
+<area shape="rect" coords="775,129,824,193" href="https://toxicpunkette.wixsite.com/toxicsite/gaming" target="inlineframe">
+<area shape="rect" coords="324,81,415,152" href="https://filedrive.gafcodes.com/users/toxicpunkette/ghost1.html" target="inlineframe">
+<area shape="rect" coords="360,206,427,299" href="https://filedrive.gafcodes.com/users/toxicpunkette/ghost2.html" target="inlineframe">
+
+
+<map name="ImageMap1">
+
+<area shape="rect" coords="238,408,258,427" href="http://www.imvu.com/catalog/web_send_message.php?recipient_id=35034513" target="_blank">
+
+
+<area shape="rect" coords="263,408,284,427" href="http://www.imvu.com/catalog/web_add_contact.php?contact=toxicpunkette" target="_blank">
+
+</map>
+
+<!-----------------------------------------Transparent panel-----------------------------------------!>
+<style>
+#aboutme_panel_header, #contact_panel_header, #dev_panel_header, #wishlist_panel_header, #url_panel_header, 
+#tagcloud_panel_header, #visitors_panel_header, #room_panel_header, #rankings_panel_header, #cool_panel_header, #gallery_panel_header, #friends_panel_header, #blog_panel_header, #rss_panel_header, #video_panel_header, #badges_panel_header, #special_panel_header,#outfits_panel_header, #groups_panel_header { 
+display: none !important; 
+}
+</style>
+
+
+
+
+
+
+
+
+<!-----------------------------------------Cursor-----------------------------------------!>
+
+
+<style>
+body, a, area,map {cursor: url("https://userimages-akm.imvu.com/userdata/16/66/51/56/userpics/Snap_CcMRiMNiWD499249285.png"), default;}
+</style>
+
+
+<!-----------------------------------------scrollbar-----------------------------------------!>
+
+<style>::-webkit-scrollbar{width:0px}::-webkit-scrollbar-track{background:#ffffff;border-radius:-10px}::-webkit-scrollbar-thumb{background:#ffd9b3;border-radius:-10px}</style>
+
+
+<!-----------------------------------------Autogrant Badges-----------------------------------------!>
+
+<style>.request_badge_button{background-image:url("https://userimages-akm.imvu.com/userdata/16/66/51/56/userpics/Snap_Ecg3Jo962p738620108.png")!important}</style>
+
+<style>
+#badges_panel_body div table{
+    width: 30%;
+    margin: 0px auto;
+}
+</style>
+
+
+</center>
